@@ -1,0 +1,32 @@
+h1{
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.contaier{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.header[
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+]
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.header-nev{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
